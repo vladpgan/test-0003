@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>https://vra-01.mcgautomation.com</comment>
+<entry key="vso-build-nb">5481809</entry>
+<entry key="pkg-description"></entry>
+<entry key="pkg-name">vlad.dev</entry>
+<entry key="used-plugins">SNMP#1.0.3</entry>
+<entry key="pkg-owner">O=VMware,OU=Unknown,CN=vRO vra-02 f85e8604-3767-405c-9cb2-3180c0413743</entry>
+<entry key="vso-version">7.3.0.5481809</entry>
+<entry key="pkg-id">8a949408665ce7d301665cec123300af</entry>
+</properties>
